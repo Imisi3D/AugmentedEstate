@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439393999879",
+    "firebase_url": "https://augmentedestate.firebaseio.com",
+    "project_id": "augmentedestate",
+    "storage_bucket": "augmentedestate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439393999879:android:d18fdda110090cc39d9ea2",
+        "android_client_info": {
+          "package_name": "com.Mactrix.AugmentedEstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439393999879-o6593uluskn5bklvcbjtjd86o1rfb7ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR4OBeM8bH-Iqw2m7SqmVvMZbAb87T6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439393999879-o6593uluskn5bklvcbjtjd86o1rfb7ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

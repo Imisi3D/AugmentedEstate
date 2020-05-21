@@ -1,0 +1,539 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-58:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\02bfe990958312476ef2e220ee725c9c\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bc2576882fef86cef234ce4665f9cd71\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a2c5a6e66780d89f864186f340d8dff5\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\50c10cd078cc1469be8e7dd89921e20c\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\60ce5285863a32f54ce09237062e6419\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d4d73da7843559fb90327716a434b891\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\f0ba98c0f608dc838dab4e1e7334ac87\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\9d9d49b1bf7b11f1b899b2fd7d716d13\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\e20df9b5fe2413204cd16c0b119119cb\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5fbdb8a3ebdc37158078ce5ea65d39ad\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bb0a076a10759cb7ceb824de94e163ad\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\ad87e278d2ce409ba188f519209606ea\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\82c69a152f355bf29c8bec392a35e538\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\824d8ad36ab7341bf1faa9aab6f09768\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\02497cf44bbe3f7916f5a308928dc5be\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\384ce1f171a52961c5141be8853346ca\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\cc69c15589f7441c135ced9116150105\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\0cbf7178082532e757a48bb9c7bf9a1e\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5c7e75492f2debb923af78570bf71b16\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d8a735c90a684c6af1ae059bbdec60bc\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\97b14e42cd8276dfa29dfe12b744ed84\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\494e1d9b67faf7fb10e04f5bf4b63e7e\AndroidManifest.xml:17:1-25:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d399f91c91558b503f173fbf743f2a9a\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\051dc4aeb0b7cf312e5a9a460389ea7d\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a0febed4ebf9e6862ae452dae61ff075\AndroidManifest.xml:17:1-29:12
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\7347af79ff9463ddcdef27ce3455eb70\AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:17:1-55:12
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:17:1-36:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\eef03fb1fa49a691c6853ddb63b1c2b2\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:17:1-40:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5725cf412b68fd2bc1d68a6a2ad001b8\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\05bfe9162a4fbfb9b053c72aac6f9be8\AndroidManifest.xml:17:1-27:12
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\01a8f59d269fbae5acd5d06db2fa7002\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\db79226aaa8c09ebcc5b414863fb0a1a\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.firebase.firebase-analytics-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\fcbbacb6f0fe1d7303b15e65eceb4a55\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.firebase.firebase-analytics-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bd78937f266d90708e65e858f801b326\AndroidManifest.xml:3:1-8:12
+MERGED from [:com.google.firebase.firebase-app-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\ebd6af84c707511973806942dc3384b3\AndroidManifest.xml:3:1-8:12
+MERGED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:17:1-42:12
+MERGED from [:com.google.firebase.firebase-auth-interop-19.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c7c2c3c46fcceb934b3e7aed4dce3c85\AndroidManifest.xml:2:1-10:12
+MERGED from [:com.google.firebase.firebase-auth-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\67b915ac00eccb5e250e7f4cffab43fa\AndroidManifest.xml:3:1-8:12
+MERGED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:15:1-23:12
+MERGED from [:com.google.firebase.firebase-components-16.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\e04f057e70fbb94bfc38f81895d93c11\AndroidManifest.xml:15:1-23:12
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:15:1-38:12
+MERGED from [:com.google.firebase.firebase-database-collection-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d4fc62cf3a48fe6cddf25c7befba3b71\AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.firebase.firebase-database-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\727174edec083e70d407afa65344475d\AndroidManifest.xml:3:1-8:12
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:17:1-47:12
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a09a36a45f3001ba71202eeac3edb5ce\AndroidManifest.xml:2:1-10:12
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c63b12638e294d8a87abedad1dec68cc\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:15:1-39:12
+MERGED from [:com.google.firebase.firebase-storage-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bab519632a8abd2028bfb240e371f5c6\AndroidManifest.xml:3:1-8:12
+MERGED from [:unityLibrary:Firebase] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\Firebase\build\intermediates\library_manifest\release\AndroidManifest.xml:10:1-19:12
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-107
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:108-154
+	android:versionCode
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:155-195
+supports-screens
+ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-56:19
+MERGED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-56:19
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\50c10cd078cc1469be8e7dd89921e20c\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\50c10cd078cc1469be8e7dd89921e20c\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\494e1d9b67faf7fb10e04f5bf4b63e7e\AndroidManifest.xml:22:5-23:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\494e1d9b67faf7fb10e04f5bf4b63e7e\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\051dc4aeb0b7cf312e5a9a460389ea7d\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\051dc4aeb0b7cf312e5a9a460389ea7d\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a0febed4ebf9e6862ae452dae61ff075\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a0febed4ebf9e6862ae452dae61ff075\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\7347af79ff9463ddcdef27ce3455eb70\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\7347af79ff9463ddcdef27ce3455eb70\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:26:5-34:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:26:5-34:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\eef03fb1fa49a691c6853ddb63b1c2b2\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\eef03fb1fa49a691c6853ddb63b1c2b2\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5725cf412b68fd2bc1d68a6a2ad001b8\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5725cf412b68fd2bc1d68a6a2ad001b8\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\01a8f59d269fbae5acd5d06db2fa7002\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\01a8f59d269fbae5acd5d06db2fa7002\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\db79226aaa8c09ebcc5b414863fb0a1a\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\db79226aaa8c09ebcc5b414863fb0a1a\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-analytics-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\fcbbacb6f0fe1d7303b15e65eceb4a55\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-analytics-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\fcbbacb6f0fe1d7303b15e65eceb4a55\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:23:5-40:19
+MERGED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:23:5-40:19
+MERGED from [:com.google.firebase.firebase-auth-interop-19.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c7c2c3c46fcceb934b3e7aed4dce3c85\AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-auth-interop-19.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c7c2c3c46fcceb934b3e7aed4dce3c85\AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:19:3-22:17
+MERGED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:19:3-22:17
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:28:5-36:19
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:28:5-36:19
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:28:5-45:19
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:28:5-45:19
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a09a36a45f3001ba71202eeac3edb5ce\AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a09a36a45f3001ba71202eeac3edb5ce\AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c63b12638e294d8a87abedad1dec68cc\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c63b12638e294d8a87abedad1dec68cc\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:29:5-37:19
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:29:5-37:19
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\50c10cd078cc1469be8e7dd89921e20c\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\02bfe990958312476ef2e220ee725c9c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\02bfe990958312476ef2e220ee725c9c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bc2576882fef86cef234ce4665f9cd71\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bc2576882fef86cef234ce4665f9cd71\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a2c5a6e66780d89f864186f340d8dff5\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a2c5a6e66780d89f864186f340d8dff5\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\50c10cd078cc1469be8e7dd89921e20c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\50c10cd078cc1469be8e7dd89921e20c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\60ce5285863a32f54ce09237062e6419\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\60ce5285863a32f54ce09237062e6419\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d4d73da7843559fb90327716a434b891\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d4d73da7843559fb90327716a434b891\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\f0ba98c0f608dc838dab4e1e7334ac87\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\f0ba98c0f608dc838dab4e1e7334ac87\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\9d9d49b1bf7b11f1b899b2fd7d716d13\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\9d9d49b1bf7b11f1b899b2fd7d716d13\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\e20df9b5fe2413204cd16c0b119119cb\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\e20df9b5fe2413204cd16c0b119119cb\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5fbdb8a3ebdc37158078ce5ea65d39ad\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5fbdb8a3ebdc37158078ce5ea65d39ad\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bb0a076a10759cb7ceb824de94e163ad\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bb0a076a10759cb7ceb824de94e163ad\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\ad87e278d2ce409ba188f519209606ea\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\ad87e278d2ce409ba188f519209606ea\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\82c69a152f355bf29c8bec392a35e538\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\82c69a152f355bf29c8bec392a35e538\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\824d8ad36ab7341bf1faa9aab6f09768\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\824d8ad36ab7341bf1faa9aab6f09768\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\02497cf44bbe3f7916f5a308928dc5be\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\02497cf44bbe3f7916f5a308928dc5be\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\384ce1f171a52961c5141be8853346ca\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\384ce1f171a52961c5141be8853346ca\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\cc69c15589f7441c135ced9116150105\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\cc69c15589f7441c135ced9116150105\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\0cbf7178082532e757a48bb9c7bf9a1e\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\0cbf7178082532e757a48bb9c7bf9a1e\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5c7e75492f2debb923af78570bf71b16\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5c7e75492f2debb923af78570bf71b16\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d8a735c90a684c6af1ae059bbdec60bc\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d8a735c90a684c6af1ae059bbdec60bc\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\97b14e42cd8276dfa29dfe12b744ed84\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\97b14e42cd8276dfa29dfe12b744ed84\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\494e1d9b67faf7fb10e04f5bf4b63e7e\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\494e1d9b67faf7fb10e04f5bf4b63e7e\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d399f91c91558b503f173fbf743f2a9a\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d399f91c91558b503f173fbf743f2a9a\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\051dc4aeb0b7cf312e5a9a460389ea7d\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\051dc4aeb0b7cf312e5a9a460389ea7d\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a0febed4ebf9e6862ae452dae61ff075\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a0febed4ebf9e6862ae452dae61ff075\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\7347af79ff9463ddcdef27ce3455eb70\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\7347af79ff9463ddcdef27ce3455eb70\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\eef03fb1fa49a691c6853ddb63b1c2b2\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\eef03fb1fa49a691c6853ddb63b1c2b2\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5725cf412b68fd2bc1d68a6a2ad001b8\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\5725cf412b68fd2bc1d68a6a2ad001b8\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\05bfe9162a4fbfb9b053c72aac6f9be8\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\05bfe9162a4fbfb9b053c72aac6f9be8\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\01a8f59d269fbae5acd5d06db2fa7002\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\01a8f59d269fbae5acd5d06db2fa7002\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\db79226aaa8c09ebcc5b414863fb0a1a\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\db79226aaa8c09ebcc5b414863fb0a1a\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-analytics-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\fcbbacb6f0fe1d7303b15e65eceb4a55\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-analytics-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\fcbbacb6f0fe1d7303b15e65eceb4a55\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-analytics-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bd78937f266d90708e65e858f801b326\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-analytics-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bd78937f266d90708e65e858f801b326\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-app-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\ebd6af84c707511973806942dc3384b3\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-app-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\ebd6af84c707511973806942dc3384b3\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:21:5-44
+MERGED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:21:5-44
+MERGED from [:com.google.firebase.firebase-auth-interop-19.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c7c2c3c46fcceb934b3e7aed4dce3c85\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-auth-interop-19.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c7c2c3c46fcceb934b3e7aed4dce3c85\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-auth-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\67b915ac00eccb5e250e7f4cffab43fa\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\67b915ac00eccb5e250e7f4cffab43fa\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:16:3-72
+MERGED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:16:3-72
+MERGED from [:com.google.firebase.firebase-components-16.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\e04f057e70fbb94bfc38f81895d93c11\AndroidManifest.xml:19:5-21:41
+MERGED from [:com.google.firebase.firebase-components-16.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\e04f057e70fbb94bfc38f81895d93c11\AndroidManifest.xml:19:5-21:41
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:19:5-21:41
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:19:5-21:41
+MERGED from [:com.google.firebase.firebase-database-collection-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d4fc62cf3a48fe6cddf25c7befba3b71\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-database-collection-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d4fc62cf3a48fe6cddf25c7befba3b71\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-database-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\727174edec083e70d407afa65344475d\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-database-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\727174edec083e70d407afa65344475d\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a09a36a45f3001ba71202eeac3edb5ce\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a09a36a45f3001ba71202eeac3edb5ce\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c63b12638e294d8a87abedad1dec68cc\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c63b12638e294d8a87abedad1dec68cc\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.firebase.firebase-storage-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bab519632a8abd2028bfb240e371f5c6\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-storage-unity-6.13.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\bab519632a8abd2028bfb240e371f5c6\AndroidManifest.xml:7:3-41
+MERGED from [:unityLibrary:Firebase] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\Firebase\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-17:40
+MERGED from [:unityLibrary:Firebase] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\Firebase\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-17:40
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:22:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:22:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\05bfe9162a4fbfb9b053c72aac6f9be8\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\05bfe9162a4fbfb9b053c72aac6f9be8\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:26:5-67
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:26:5-67
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:27:5-67
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:22-78
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-45:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-44:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:17-57
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:9-49:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:9-52:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-47
+meta-data#unity.build-id
+ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:68
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mactrix\Documents\ExtendedReality\Projects\AugmentedEstate\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-42
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a0febed4ebf9e6862ae452dae61ff075\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a0febed4ebf9e6862ae452dae61ff075\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a0febed4ebf9e6862ae452dae61ff075\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\a0febed4ebf9e6862ae452dae61ff075\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\7347af79ff9463ddcdef27ce3455eb70\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\7347af79ff9463ddcdef27ce3455eb70\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\7347af79ff9463ddcdef27ce3455eb70\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\05bfe9162a4fbfb9b053c72aac6f9be8\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\05bfe9162a4fbfb9b053c72aac6f9be8\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:25:5-79
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:25:5-79
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:22:5-79
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:22:5-79
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:26:5-79
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:24:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:24:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\05bfe9162a4fbfb9b053c72aac6f9be8\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\05bfe9162a4fbfb9b053c72aac6f9be8\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:24:5-68
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:34:9-42:20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:29:9-37:20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\dd5f8e53ceb215329fe3ec140399f5e6\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\feb5bb8061d4e7fef911940dd8aab0fd\AndroidManifest.xml:49:13-87
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:27:9-33:19
+MERGED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:33:9-39:19
+MERGED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:33:9-39:19
+MERGED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:21:5-164
+MERGED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:21:5-164
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:29:9-35:19
+MERGED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:29:9-35:19
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:29:9-35:19
+MERGED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:29:9-35:19
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:30:9-36:19
+MERGED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:30:9-36:19
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:21:142-161
+	android:directBootAware
+		ADDED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:21:86-116
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-api-17.2.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\99740772061db51d23f1a716a223ac6d\AndroidManifest.xml:31:17-139
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-19.2.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\96c93ed51e37fd3a39c6862a45955fb1\AndroidManifest.xml:37:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:20:5-202
+	android:authorities
+		ADDED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:20:80-150
+	android:exported
+		ADDED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:20:151-175
+	android:initOrder
+		ADDED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:20:176-199
+	android:name
+		ADDED from [:com.google.firebase.firebase-common-19.3.0:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\d5074a337fd27d8e7e5b36c73b7a74f9\AndroidManifest.xml:20:15-79
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-database-19.2.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\c311ddcec2232bc70ed1f216a34b20ff\AndroidManifest.xml:33:17-109
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-20.0.2:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2e40aa5f87e52a2f09d1703b128c3a37\AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-storage-19.1.1:] C:\Users\Mactrix\.gradle\caches\transforms-2\files-2.1\2485c610f8b61a827eca6aed2cd205ed\AndroidManifest.xml:34:17-107
