@@ -19,6 +19,7 @@ public class ItemChild
     public string name;
     public string label;
     public string description;
+    public Asset asset;
 
 
     public ItemChild(string ID,Texture2D texture2D, string Name, string Label, string Description)
@@ -38,6 +39,17 @@ public class ItemChild
         description = Description;
         imageuri = ImageUri;
         id = ID;
+    }
+
+    public ItemChild(Texture2D texture2D, string Name, string Label, string Description, string ImageUri, string ID,Asset assets)
+    {
+        texture = texture2D;
+        name = Name;
+        label = Label;
+        description = Description;
+        imageuri = ImageUri;
+        id = ID;
+        asset = assets;
     }
 
 }
@@ -62,6 +74,7 @@ public class ContentScrollist : MonoBehaviour
     
     // Tranform of the content GameObject
     public Transform ContentGameObject;
+    public Transform Sizeitem;
     
     // Firebase Database reference
     private DatabaseReference assetReference;
@@ -184,7 +197,7 @@ public class ContentScrollist : MonoBehaviour
         //S($"texture.LoadRawTextureData called");
         
         
-        ItemChild itemChild = new ItemChild(texture,asset.name,asset.label,asset.description,asset.images[0],asset.id);
+        ItemChild itemChild = new ItemChild(texture,asset.name,asset.label,asset.description,asset.images[0],asset.id,asset);
         
         S($"downloadtexture : Adding Item {itemChild.name}");
         
@@ -216,7 +229,8 @@ public class ContentScrollist : MonoBehaviour
 
                 GameObject content = _pooler.SpawnObject(PathString.AssetList);
                 
-                content.transform.SetParent(ContentGameObject);
+                
+                content.transform.SetParent(ContentGameObject,false);
 
                 ChilditemScript childitemScript = content.GetComponent<ChilditemScript>();
                 childitemScript.Setup(child,this);

@@ -160,7 +160,7 @@ public class ContentUIScript : MonoBehaviour
                 GameObject imageobj = Pooler.SpawnObject(PathString.AddAsset);
             
                 // set the transform of the child to parent content
-                imageobj.transform.SetParent(contenttranform);
+                imageobj.transform.SetParent(contenttranform,false);
 
                 ImagelistScript imageitem = imageobj.GetComponent<ImagelistScript>();
                 imageitem.Setup(item, this);
