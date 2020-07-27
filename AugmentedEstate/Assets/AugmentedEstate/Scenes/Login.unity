@@ -898,11 +898,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Direction: 2
   m_Color1: {r: 0, g: 0.6666667, b: 1, a: 1}
-  m_Color2: {r: 1, g: 1, b: 1, a: 1}
+  m_Color2: {r: 0, g: 0, b: 0, a: 1}
   m_Color3: {r: 1, g: 1, b: 1, a: 1}
   m_Color4: {r: 1, g: 1, b: 1, a: 1}
   m_Rotation: -180
-  m_Offset1: -0.01
+  m_Offset1: 0.1
   m_Offset2: 0
   m_GradientStyle: 0
   m_ColorSpace: -1
@@ -925,7 +925,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 206de26f583282e4595c85171e6a8f2a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 02fb964eedb478941bca5d13cde5ac4d, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
