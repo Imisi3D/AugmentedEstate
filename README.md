@@ -1,2 +1,2 @@
 # AugmentedEstate
- Augmented Reality in Real Estate
+ Augmented Reality for Real Estate
